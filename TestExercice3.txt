@@ -1,0 +1,2 @@
+Ceci est une ligne.
+Et voici une autre ligne avec plusieurs mots.
